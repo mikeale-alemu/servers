@@ -1,0 +1,9 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "parser": "flow",
+  "usePrettierrc": false,
+  "fileInfoOptions": {
+    "withNodeModules": true
+  }
+}
